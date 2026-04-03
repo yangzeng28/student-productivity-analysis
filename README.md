@@ -14,7 +14,7 @@ Student behavior dataset including study hours, sleep hours, social media usage,
 - Performed exploratory data analysis to understand relationships between variables
 - Built visualizations to identify key patterns and trends
 - Analyzed correlations between study habits, stress, and productivity
-- Designed dashboards to present insights in a clear and business-friendly way
+- Designed interactive dashboards to present insights in a clear and business-friendly way
 
 ## Key Findings
 - Higher study hours are strongly associated with higher productivity
